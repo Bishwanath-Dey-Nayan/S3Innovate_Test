@@ -13,6 +13,7 @@ namespace Mobile_Billing
         public static double CalculateBill(DateTime starttime, DateTime endtime)
         {
             double bill = 0;
+            int j = 0;
             DateTime peakhourstrart = Convert.ToDateTime(PEAK_HOUR_START);
             for (int i=0; ;i++)
             {
@@ -22,7 +23,7 @@ namespace Mobile_Billing
                 }
                 starttime = starttime.AddSeconds(20);
 
-                    if(PEAK_HOUR_START.TimeOfDay<starttime.TimeOfDay)
+                    if((PEAK_HOUR_START.TimeOfDay<starttime.TimeOfDay && starttime.TimeOfDay < PEAK_HOUR_END.TimeOfDay))
                     {
                         bill += 30;
                     if(starttime>endtime)
