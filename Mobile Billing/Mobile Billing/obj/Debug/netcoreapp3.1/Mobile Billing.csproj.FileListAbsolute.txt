@@ -1,0 +1,11 @@
+H:\S3 Innovate\Mobile Billing\Mobile Billing\bin\Debug\netcoreapp3.1\Mobile Billing.exe
+H:\S3 Innovate\Mobile Billing\Mobile Billing\bin\Debug\netcoreapp3.1\Mobile Billing.deps.json
+H:\S3 Innovate\Mobile Billing\Mobile Billing\bin\Debug\netcoreapp3.1\Mobile Billing.runtimeconfig.json
+H:\S3 Innovate\Mobile Billing\Mobile Billing\bin\Debug\netcoreapp3.1\Mobile Billing.runtimeconfig.dev.json
+H:\S3 Innovate\Mobile Billing\Mobile Billing\bin\Debug\netcoreapp3.1\Mobile Billing.dll
+H:\S3 Innovate\Mobile Billing\Mobile Billing\bin\Debug\netcoreapp3.1\Mobile Billing.pdb
+H:\S3 Innovate\Mobile Billing\Mobile Billing\obj\Debug\netcoreapp3.1\Mobile Billing.csprojAssemblyReference.cache
+H:\S3 Innovate\Mobile Billing\Mobile Billing\obj\Debug\netcoreapp3.1\Mobile Billing.AssemblyInfoInputs.cache
+H:\S3 Innovate\Mobile Billing\Mobile Billing\obj\Debug\netcoreapp3.1\Mobile Billing.AssemblyInfo.cs
+H:\S3 Innovate\Mobile Billing\Mobile Billing\obj\Debug\netcoreapp3.1\Mobile Billing.dll
+H:\S3 Innovate\Mobile Billing\Mobile Billing\obj\Debug\netcoreapp3.1\Mobile Billing.pdb
